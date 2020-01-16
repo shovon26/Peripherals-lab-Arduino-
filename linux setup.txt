@@ -1,0 +1,3 @@
+///Steps and command for arduino installing
+
+https://www.arduino.cc/en/guide/linux
